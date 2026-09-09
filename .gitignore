@@ -1,0 +1,33 @@
+# Windows / Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# R / R 项目
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python / Python 项目
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Editors / 编辑器
+.vscode/
+.idea/
+*.swp
+
+# Sensitive / 敏感与本地配置
+.env
+*.pem
+
+# WorkBuddy 本地工作区数据（仅本地保留，不入库）
+.workbuddy/
